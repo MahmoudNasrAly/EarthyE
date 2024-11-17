@@ -71,9 +71,6 @@ store-management-dashboard/
 ├── data.xlsx             # Your inventory dataset (add your file here).  
 └── README.md             # Documentation.  
 
-Contribution
-Contributions are welcome! Open an issue or submit a pull request.
-
  ### 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mahmoudnasraly@gmail.com)](mailto:mahmoudnasraly@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
