@@ -25,5 +25,9 @@ This project provides a robust **Store Management Dashboard** built with Python,
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/store-management-dashboard.git  
-   cd store-management-dashboard  
+   git clone https://github.com/MahmoudNasrAly/EarthyE/store-management-dashboard.git  
+   cd store-management-dashboard
+
+2.Install Dependencies
+Ensure Python 3.8+ is installed, then install the required libraries:
+pip install pandas plotly dash openpyxl  
