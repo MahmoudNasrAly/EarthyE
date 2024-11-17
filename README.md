@@ -30,4 +30,5 @@ This project provides a robust **Store Management Dashboard** built with Python,
 
 2.Install Dependencies
 Ensure Python 3.8+ is installed, then install the required libraries:
+``bash
 pip install pandas plotly dash openpyxl  
